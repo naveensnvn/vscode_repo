@@ -1,1 +1,2 @@
 this file is created on github
+THIS is created in featureA
